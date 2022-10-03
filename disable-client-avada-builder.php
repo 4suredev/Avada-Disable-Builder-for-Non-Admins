@@ -3,7 +3,7 @@
  * Plugin Name: Avada Disable Builder for Non-Admins
  * Plugin URI: https://4sure.com.au
  * Description: Disables Avada builder for all roles except administrator
- * Version: 2.1
+ * Version: 1.0.0
  * Requires PHP: 7.2
  * Requires at least: 5.8
  * Author: 4sure

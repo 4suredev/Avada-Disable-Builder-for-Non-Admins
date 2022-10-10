@@ -11,7 +11,7 @@
  */
 include_once( plugin_dir_path( __FILE__ ) . 'updater.php');
 $updater = new Disable_non_admin_avada_updater( __FILE__ ); // instantiate our class
-$updater->set_username( '4surecarlo' ); // set username
+$updater->set_username( '4suredev' ); // set username
 $updater->set_repository( 'Avada-Disable-Builder-for-Non-Admins' ); // set repo
 $updater->initialize(); // initialize the updater
 if( ! class_exists( 'Disable_non_admin_avada_updater' ) ){
